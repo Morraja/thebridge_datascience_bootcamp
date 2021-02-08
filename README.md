@@ -1,2 +1,7 @@
-# RepoTito
-Repositorio_TheBridge
+## THE BRIDGE DATA SCIENCE BOOTCAMP
+# REPOSITORIO CON TEMARIO Y EJERCICIOS 
+Jupyter
+Python
+Pycharm
+SQL
+Pandas
